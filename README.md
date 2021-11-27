@@ -1,5 +1,7 @@
 # ProyectoSolar
+
 Tareas a corto plazo:
+
 -Investigar estado del arte en cuanto a la influencia de la atmmosfera en la absorción de luz (Por qué se genera ese tono rojizo)
 
 -Subir papers al respecto y socializar ideas para llevar a cabo el proyecto con la instrumentación que tenemos
