@@ -14,6 +14,6 @@
 
 -Crear un overleaf en el que se explique el proyecto a realizar con el fin de presentar al halley nuestros avances
 
-## Tareas a largo plazo:
+## Tareas a laaargo plazo:
 
 -En caso de ser aceptado el proyecto esta sección se debatirá en su momento 
